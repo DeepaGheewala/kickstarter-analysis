@@ -24,7 +24,7 @@
    - In Dec the success rate is almost similar to failure rate of campaign plays
    - A failed Play trend has less variations in diferent months
    - A successful Play trend has much variations in different months. 
-   - Here is [Theater Outcomes vs Launch Date Chart](https://github.com/DeepaGheewala/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+   - Here is [Theater Outcomes vs Launch Date Chart](https://github.com/DeepaGheewala/kickstarter-analysis/blob/49cf0398d630d3f4499e05b91a794a95c4ce6040/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
    - The Percentage of Successful and Failure trend works opposite to each other for each goal ie. when Successful rates are higher, failure rates are lower.
