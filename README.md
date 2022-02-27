@@ -30,7 +30,7 @@
    - The Percentage of Successful and Failure trend works opposite to each other for each goal ie. when Successful rates are higher, failure rates are lower.
    - The trend line have been very varying over different goals.
    - There is more success when the amount of fund raising is less.
-   - Here is [Outcomes vs Goals Chart](https://github.com/DeepaGheewala/kickstarter-analysis/resources/Outcomes_vs_Goals.png)
+   - Here is [Outcomes vs Goals Chart](https://github.com/DeepaGheewala/kickstarter-analysis/blob/49cf0398d630d3f4499e05b91a794a95c4ce6040/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
    - Understanding Github and writing analysis
