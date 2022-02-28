@@ -12,6 +12,7 @@
    * For displaying monthly progress of Play, first it was required to covert the Unix format date to appropriate readable format.
    * For applying filter on Categories and subcategories it was good to have seperate column. 
    * Project File can be accessed here [Fund Raising Events Data - Kickstarter-analysis.xlxs](https://github.com/DeepaGheewala/kickstarter-analysis/blob/7c005a538be80fbf2800793a86f36a748c60ef65/Kickstarter_Challenge.xlsx)
+   
  **Challenges**
 
    * Made the date conversion using this formaula '(((<columnName>/60)/60)/24)+DATE(1970,1,1)'
